@@ -82,17 +82,19 @@ developer tooling and applications that solve actual problems.
 ## 🚀 Things I Like Building
 
 ```text
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│   ⚙️  Backend Services                                    │
-│   ☁️  Cloud Infrastructure                                │
-│   🤖  Automation & Developer Tools                        │
-│   🖥️  Desktop Applications                                │
-│   🌐  Full-Stack Web Applications                         │
-│   🗄️  Data & API Systems                                  │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│  // WHAT I BUILD                                             │
+│                                                            
+│  ◉ Backend        → APIs · Services · Distributed Systems   
+│  ◉ Cloud          → AWS · GCP · Infrastructure               
+│  ◉ Automation     → Tooling · Bots · Workflows              
+│  ◉ Desktop        → Electron · Cross-platform Apps           
+│  ◉ Web            → React · Django · Full-Stack             
+│  ◉ Data           → PostgreSQL · Redis · SQLite              
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
+
 
 I especially enjoy projects where **performance, reliability and simplicity**
 matter more than throwing another framework at the problem.
